@@ -14,9 +14,9 @@
   "dependencies": {
     "superagent": "~0.16.0",
     "debug": "~0.7.4",
-    "date-math": "0.0.1",
+    "date-math": "~0.0.1",
     "defaults": "~1.0.0",
-    "google-client-login": "0.0.1"
+    "google-client-login": "~0.0.1"
   },
   "devDependencies": {
     "mocha": "~1.17.1"
