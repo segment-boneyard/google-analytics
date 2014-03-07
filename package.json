@@ -1,6 +1,6 @@
 {
   "name": "google-analytics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib",
   "repository": "git://github.com/segmentio/google-analytics.git",
   "license": "MIT",
@@ -15,7 +15,8 @@
     "superagent": "~0.16.0",
     "debug": "~0.7.4",
     "date-math": "0.0.1",
-    "defaults": "~1.0.0"
+    "defaults": "~1.0.0",
+    "google-client-login": "0.0.1"
   },
   "devDependencies": {
     "mocha": "~1.17.1"
