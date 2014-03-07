@@ -3,7 +3,9 @@
 
   Query Google Analytics data from node.
 
-  
+## Installation
+
+  $ npm install segmentio/google-analytics
 
 ## Example
 
@@ -48,7 +50,7 @@ ga.query()
 });
 ```
 
-The [data feed request format](https://developers.google.com/analytics/devguides/reporting/core/v2/gdataReferenceDataFeed) explains the different arguments that can be used in a Google Analytics data request. You can play around with sample requests in the [GA dev tools explorer](http://ga-dev-tools.appspot.com/explorer/?csw=1).
+The [data feed request format](https://developers.google.com/analytics/devguides/reporting/core/v2/gdataReferenceDataFeed) explains the different arguments that can be used in a Google Analytics data request. You can play around with sample requests in the [GA dev tools query explorer](http://ga-dev-tools.appspot.com/explorer/?csw=1).
 
 ### Custom Dynamic Segments
 
