@@ -5,7 +5,7 @@
 
 ## Installation
 
-  $ npm install segmentio/google-analytics
+    $ npm install segmentio/google-analytics
 
 ## Example
 
