@@ -12,9 +12,8 @@
 Create a new Google Analytics instance with a `viewId`, and then login:
 
 ```js
-var GA = require('google-analytics');
+var ga = require('google-analytics')('67032470');
 
-var ga = GA('67032470');
 ga.login('user@gmail.com', 'password', function (err) {
     // login first
 });
